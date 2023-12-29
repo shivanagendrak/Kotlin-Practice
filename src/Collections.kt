@@ -34,4 +34,7 @@ fun main(){
     // removing pineapple from list
     fruits.remove("Pineapple")
     println(fruits)
+
+
+    
 }
